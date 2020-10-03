@@ -19,6 +19,12 @@
         <button type="button" class="btn btn-primary" onclick="addproduct()">Enviar</button>
     </form>
     <br>
+
+    <p id="resultados">
+
+    </p>
+    <br>
+    <hr>
     <table id="productos" class="table">
         <tr>
             <th>Nombre</th>
